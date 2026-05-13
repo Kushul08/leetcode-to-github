@@ -20,7 +20,7 @@ A browser extension that automatically pushes your LeetCode solutions to a GitHu
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/leetcode-to-github.git
+   git clone https://github.com/Kushul08/leetcode-to-github
    ```
 
 2. Open your browser's extension page:
@@ -87,10 +87,6 @@ Contributions are welcome! Here's how:
 Please open an issue first for major changes.
 
 ---
-
-## 📄 License
-
-MIT © [Your Name](https://github.com/yourusername)
 
 ---
 
